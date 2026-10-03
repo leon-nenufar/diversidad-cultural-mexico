@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560">
+<style>text{font-family:Arial,sans-serif;fill:#17211d}.h{font-size:34px;font-weight:700}.t{font-size:22px;font-weight:700}.s{font-size:18px;fill:#5f6d66}.b{fill:#fff;stroke:#c9c4b8;stroke-width:2}.m{fill:#f3eadb;stroke:#8b3a3a;stroke-width:3}.line{stroke:#8b3a3a;stroke-width:4;fill:none}.dash{stroke-dasharray:12 10}</style>
+<rect width="1200" height="560" fill="#fbfaf6"/><text x="600" y="55" text-anchor="middle" class="h">Identidad transnacional: vínculos que cruzan fronteras</text>
+<rect x="90" y="190" rx="20" width="300" height="150" class="m"/><text x="240" y="245" text-anchor="middle" class="t">México</text><text x="240" y="280" text-anchor="middle" class="s">familia · lengua · tradiciones</text><text x="240" y="310" text-anchor="middle" class="s">comunidad de origen</text>
+<rect x="810" y="190" rx="20" width="300" height="150" class="m"/><text x="960" y="245" text-anchor="middle" class="t">País de residencia</text><text x="960" y="280" text-anchor="middle" class="s">trabajo · escuela · redes</text><text x="960" y="310" text-anchor="middle" class="s">nuevas prácticas culturales</text>
+<path d="M390 230 C540 120 660 120 810 230" class="line"/><path d="M810 300 C660 420 540 420 390 300" class="line dash"/>
+<rect x="470" y="215" rx="18" width="260" height="110" class="b"/><text x="600" y="255" text-anchor="middle" class="t">Identidad dinámica</text><text x="600" y="286" text-anchor="middle" class="s">integración + vínculos</text>
+<text x="600" y="465" text-anchor="middle" class="s">La migración puede producir aculturación e hibridación sin implicar la desaparición de la identidad mexicana.</text>
+</svg>
